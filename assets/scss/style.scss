@@ -420,9 +420,6 @@ header {
         }
       }
   }
-  
-    .main-square:hover {
-  }
 }
   
   
@@ -442,6 +439,9 @@ header {
   justify-content: center;
 }
 
+.owl-nav {
+  display : none;
+}
 
 //////////////////////////////////
 //

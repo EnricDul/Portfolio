@@ -329,6 +329,9 @@ header {
   align-items: center;
   justify-content: center; }
 
+.owl-nav {
+  display: none; }
+
 @keyframes growButton {
   from {
     transform: scale(0);
